@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "勘冴えて悔しいわ",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-03T09:50:21.817009Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_勘冴えて悔しいわ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_勘冴えて悔しいわ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_勘冴えて悔しいわ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_勘冴えて悔しいわ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_勘冴えて悔しいわ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ZUTOMAYO (ずっと真夜中でいいのに。)",
+      "has_synced": true,
+      "path": "select/06_勘冴えて悔しいわ_ZUTOMAYO_(ずっと真夜中でいいのに。).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/07_勘冴えて悔しいわ_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_勘冴えて悔しいわ_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/09_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/10_勘冴えて悔しいわ_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ - Kan Saete Kuyashiiwa",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_勘冴えて悔しいわ_-_Kan_Saete_Kuyashiiwa_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ - Kan Saete Kuyashiiwa",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/12_勘冴えて悔しいわ_-_Kan_Saete_Kuyashiiwa_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/13_勘冴えて悔しいわ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/14_勘冴えて悔しいわ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『勘冴えて悔しいわ』MV (ZUTOMAYO - Kansaete Kuyashiiwa)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/15_ずっと真夜中でいいのに。『勘冴えて悔しいわ』MV_(ZUTOMAYO_-_Kansaete_Kuyashiiwa)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_06_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_07_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_08_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_09_勘冴えて悔しいわ_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
